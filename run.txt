@@ -1,0 +1,9 @@
+python3 generate_data.py
+
+python3 train_model.py
+
+python3 test_model.py
+
+python3 test_model.py --test-data your_data.csv
+
+python3 test_model.py --generate-test --n-samples 500
